@@ -1,0 +1,133 @@
+/*Header Section*/
+#heading {
+	background-color: #a7c5eb;
+	color: white;
+	padding: 5% 20% 0 20%;
+	text-align: left;
+	font-family: "Alef";
+}
+#heading .container-fluid {
+	padding: 0px 0px;
+	font-size: 1.2rem;
+}
+#heading .navbar {
+	padding: 0 0 10% 0;
+}
+.navbar-brand {
+	font-family: "Pacifico";
+	font-size: 40px !important;
+}
+.now {
+	font-family: "Pacifico";
+	font-size: 3.5rem;
+}
+.title-img {
+	height: 300px;
+	width: 300px;
+	margin-left: 75px;
+}
+.motto {
+	margin-top: 70px;
+}
+
+/*Info Section*/
+#information {
+	margin: 10% 20% 10% 20%;
+	font-family: "Alef";
+	text-align: center;
+	color: #898b8a;
+}
+.info-pic {
+	height: 100px;
+	width: 100px;
+	margin-bottom: 5%;
+}
+h2 {
+	margin-bottom: 20%;
+	font-family: "Pacifico";
+	color: #cd5d7d;
+}
+#information .info-box {
+	padding: 0% 5%;
+}
+/*Team Section*/
+#team {
+	padding: 5% 20% 5% 20%;
+	background-color: #949cdf;
+	position: relative;
+	color: white;
+	font-size: 1.5rem;
+	font-family: "Alef"
+}
+.star-pic {
+	height: 50px;
+	width: 50px;
+	position: absolute;
+}
+.star1 {
+	top: 20px;
+	bottom: 70px;
+	left: 12%;
+	right: 30px;
+}
+.star2 {
+	top: 60%;
+	bottom: 10px;
+	left: 35px;
+	right: 50px;
+}
+.star3 {
+	top: 70%;
+	bottom: 0px;
+	left: 75%;
+	right: 0px;
+}
+.star4 {
+	top: 20%;
+	bottom: 0px;
+	left: 80%;
+	right: 0px;	
+}
+.star5 {
+	top: 60%;
+	bottom: 0px;
+	left: 90%;
+	right: 0px;	
+}
+.lor {
+	font-family: "Pacifico";
+	font-size: 2rem;
+}
+
+/*Mail Section*/
+#letter-to {
+	padding: 5% 20% 5% 20%;
+	background-color: white;
+	text-align: center;
+	font-family: "Alef";
+	font-size: 1rem;
+	color: #cd5d7d;
+}
+.mail {
+	color: #cd5d7d;
+	font-family: "Pacifico";
+	font-size: 2rem;
+}
+.letter {
+	height: 200px;
+	width: 200px;
+}
+
+/*Contacts Footer Section*/
+#contacts {
+	padding: 1% 20% 0% 20%;
+	background-color: white;
+	text-align: center;
+	color: #cd5d7d; 
+	font-family: "Alef";
+	font-size: 0.8rem;
+}
+.footer-link {
+	color: #cd5d7d;
+	font-family: "Alef";
+}
